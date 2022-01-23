@@ -8,5 +8,6 @@ public class HelloWorld {
         System.out.println("hello git4!");
         System.out.println("master test!");
         System.out.println("hot-fix 22!");
+        System.out.println("ssh test");
     }
 }
